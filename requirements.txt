@@ -1,0 +1,11 @@
+streamlit
+requests
+groq
+numpy
+pandas
+scikit-learn
+tensorflow
+deep-translator
+edge-tts
+kagglehub
+Pillow
